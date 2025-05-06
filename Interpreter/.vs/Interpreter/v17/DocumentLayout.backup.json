@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBD72E-0FFE-475D-AC44-1BB20B968A47}|Interpreter\\Interpreter.vcxproj|C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FBBD72E-0FFE-475D-AC44-1BB20B968A47}|Interpreter\\Interpreter.vcxproj|solutionrelative:Interpreter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FBBD72E-0FFE-475D-AC44-1BB20B968A47}|Interpreter\\Interpreter.vcxproj|C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0FBBD72E-0FFE-475D-AC44-1BB20B968A47}|Interpreter\\Interpreter.vcxproj|solutionrelative:Interpreter\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\input.txt",
+              "RelativeDocumentMoniker": "Interpreter\\input.txt",
+              "ToolTip": "C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\input.txt",
+              "RelativeToolTip": "Interpreter\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-15T12:03:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\main.cpp",
+              "RelativeDocumentMoniker": "Interpreter\\main.cpp",
+              "ToolTip": "C:\\My fun\\\u0421\u002B\u002B\\Interpreter\\Interpreter\\main.cpp",
+              "RelativeToolTip": "Interpreter\\main.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAIAwwGQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T12:01:44.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
